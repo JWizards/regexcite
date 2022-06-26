@@ -28,7 +28,7 @@ This is mostly an identical reproduction of the code online.
 
 You can install the development version of regexcite from [GitHub](https://github.com/) with:
 
-I personally recommend the official version given as the second line
+I personally recommend the official version given in the second line
 
 ``` r
 # install.packages("devtools")
